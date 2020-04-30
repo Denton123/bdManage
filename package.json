@@ -41,7 +41,7 @@
         "vux": "^2.9.4",
         "vux-loader": "^1.2.9",
         "yaml-loader": "^0.5.0",
-        "jquery": "^2.2.3"
+        "jquery": "^3.5.0"
     },
     "devDependencies": {
         "@vue/cli-plugin-babel": "^3.1.1",
